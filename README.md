@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm gab a passionate developer with expertise in various programming languages and technologies. I enjoy creating innovative solutions and sharing my knowledge with the community. Welcome to my GitHub profile!</h1>
+<h1 align="center">Hi 👋, I'm gab a passionate developer with expertise in various programming languages and technologies.!</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gab-owen&label=Profile%20views&color=0e75b6&style=flat" alt="gab-owen" /> </p>
